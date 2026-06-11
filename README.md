@@ -1,4 +1,7 @@
 # 💫 Hi 👋, Suraj Kumar
+
+![](https://komarev.com/ghpvc/?username=surajkumar-0&label=Profile%20Views&color=0e75b6&style=flat)
+
 **A passionate B.Tech CSE Student and Aspiring Full Stack Web Developer from India 🇮🇳**
 
 Email Me 👉 ✉️ **surajj.sunn@gmail.com For Collaboration/Project or Anything Else. 😊😊
